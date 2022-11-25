@@ -5,7 +5,22 @@ body {
 a {
   color: skyblue;
   font-family: 'Press Start 2P', cursive;
-  
+}
+
+li{
+  color: #FEF2BF;
+  text-align: left;
+  font-size: larger;
+}
+
+span {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1rem;
+  color:skyblue;
+}
+
+footer{
+  margin-top: 2rem;
 }
 
 #level-title {
