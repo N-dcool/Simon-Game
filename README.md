@@ -15,7 +15,7 @@ Simon is an digital game of memory skill. The device creates a series of tones a
   </p>
 <hr>
 
-<h2>📍 Access the Site <a href="https://nareshchoudhary02.github.io/Simon-Game/">here!</a></h2>
+<h2>📍 Access the Site <a href="https://n-dcool.github.io/Simon-Game/">here!</a></h2>
 
 <hr>
 
